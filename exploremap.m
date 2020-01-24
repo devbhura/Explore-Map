@@ -9,11 +9,7 @@ function exploremap()
 
 %Header stuff goes here
 %{
-Name: Devesh Bhura
-ITP 168
-Fall 2017 HW9
-dbhura@usc.edu
-------------------------------
+
 Date: 11/10/2017
 
 Version 1: The function takes in data from a mat file and then ses it it
